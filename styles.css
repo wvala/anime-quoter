@@ -1,0 +1,91 @@
+body {
+  font-family: 'Uchen', serif;
+  background-color: #EAA8DE;
+  color: #814F63;
+}
+
+.clear {
+  height: 100px;
+}
+
+.main {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  width: 800px;
+  margin: 0px auto;
+}
+
+.quotebox {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.randombox {
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  display: flex;
+}
+
+.fetch-button {
+  width: 50px;
+  background-color: #F6AEE9;
+  padding-left: 8px;
+  padding-right: 8px;
+  border-radius: 16px;
+  transition: 0.3s;
+  color: #814F63;
+  border: 2px;
+  border-style: solid;
+  border-color: #BA77BD;
+}
+
+.fetch-button:hover {
+  background-color: #FABEE7;
+}
+
+#fetch-button {
+  margin-left: 16px;
+}
+
+#charname {
+  font-family: 'Uchen', serif;
+  background-color: #EAA8DE;
+}
+
+#charbutton {
+  font-family: 'Uchen', serif;
+}
+
+.fetch-clicker {
+  text-decoration: none;
+  color: #814F63;
+}
+
+a:visited {
+  color: #814F63;
+}
+
+#character-clicker {
+  text-decoration: none;
+}
+
+.wallpaper-holder {
+  width: 800px;
+  margin: 0px auto;
+  align-items: center;
+  justify-content: center;
+}
+
+#wallpaper {
+  max-width: 800px;
+  border: 2px;
+  border-style: solid;
+  border-color: #BA77BD;
+}
